@@ -21,5 +21,4 @@ End-to-end data analysis of a simulated Pakistani e-commerce store with 2,000 cu
 ## Tools Used
 Python, Pandas, Matplotlib, Seaborn, OpenPyXL
 
----
-[Connect with me on LinkedIn](https://linkedin.com/in/yourprofile)
+
